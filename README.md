@@ -5,10 +5,10 @@ This is an arcade style shoot 'em up game written in Java using JavaFX.
 JavaFX: https://openjfx.io/
 
 ## Controls
-Movement: arrow keys  Fire: spacebar
+Movement: arrow keys <br> Fire: spacebar
 
 # Power Ups
-Salt: increases fire rate  Pepper: spawns extra pizza slices which shoot alongside the player's sprite
+Salt: increases fire rate <br> Pepper: spawns extra pizza slices which shoot alongside the player's sprite
 
 ## Classes
 - BackgroundManager: handles infinite scrolling background
