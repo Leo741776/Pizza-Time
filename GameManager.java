@@ -262,7 +262,7 @@ public class GameManager {
         gameState.life = 3;
         gameState.score = 0;
         FIRE_COOLDOWN = 750;
-        SPAWN_COOLDOWN = 3000;
+        SPAWN_COOLDOWN = 1250;
         lastSpawnDifficultyIncrease = System.currentTimeMillis();
 
         fireOffsets.clear();
@@ -299,3 +299,4 @@ public class GameManager {
         gameTimer.start();
     }
 }
+
