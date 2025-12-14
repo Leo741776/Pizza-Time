@@ -17,7 +17,7 @@ public class BackgroundManager {
     public BackgroundManager(Pane gamePane) {
         this.gamePane = gamePane;
 
-        Image backgroundImage = new Image(getClass().getResource("/assets/background/space.png").toExternalForm());
+        Image backgroundImage = new Image(getClass().getResource("/assets/background/background_image.png").toExternalForm());
 
         this.background1 = new ImageView(backgroundImage);
         this.background2 = new ImageView(backgroundImage);
@@ -65,3 +65,4 @@ public class BackgroundManager {
         timeline.play();
     }
 }
+
