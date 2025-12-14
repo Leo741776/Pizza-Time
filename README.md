@@ -1,5 +1,5 @@
 # Pizza Time
-This is an a shoot 'em up game written in Java using JavaFX.
+This is a shoot 'em up game written in Java using JavaFX.
 
 ## Additional Library Needed to Run This Program
 JavaFX: https://openjfx.io/
