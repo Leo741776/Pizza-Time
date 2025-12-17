@@ -26,7 +26,7 @@ Salt: increases fire rate <br> Pepper: spawns extra pizza slices which shoot alo
 - SoundManager: handles various audio clips used in different interactions
 - UIManager: handles UI elements such as score, instructions, logo, life, and game over screen
 
-## Screenshots
+## Screenshot
 
 <img width="754" height="1017" alt="Image" src="https://github.com/user-attachments/assets/4110945d-4c32-4487-81e9-aeb4038c6366" />
 
