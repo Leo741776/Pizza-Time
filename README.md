@@ -7,7 +7,7 @@ JavaFX: https://openjfx.io/
 ## Controls
 Movement: arrow keys <br> Fire: spacebar
 
-# Power Ups
+## Power Ups
 Salt: increases fire rate <br> Pepper: spawns extra pizza slices which shoot alongside the player's sprite
 
 ## Classes
